@@ -7,7 +7,7 @@
   
 ## Overview Statistical Analysis  
   
-Clent wants information about temperature trends, specifically, temperature data for the months of June and December in Oahu. This data will be key in determining viability of proposed surf and ice cream shop for year-round business.  
+Clent requests information about temperature trends -- specifically, temperature data for the months of June and December in Oahu. This data will be key in determining viability of proposed surf and ice cream shop for year-round business.  
   
   
 ### Results  
