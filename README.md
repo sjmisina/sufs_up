@@ -3,7 +3,7 @@
   * Analyst: Stan Misina. 
   * Source Data: SQLite database provided by client: **`hawaii.sqlite`**.  
       - containing no of tables, column names, number of rows, number of stations, date length of sample size 
-  * Source Code: Python v. 3.8 built in Jupyter Notebook 6.4.0. 
+  * Source Code: Python v. 3.8.10 built in Jupyter Notebook 6.4.0. 
   
 ## Overview Statistical Analysis  
   
