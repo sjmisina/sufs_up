@@ -14,7 +14,8 @@ Clent wants information about temperature trends, specifically, temperature data
 ![june_results](readme_resources/june_temps.png)
 ![dec_results](readme_resources/dec_temps.png)
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
+The analysis yeilded these specific findings, per client's request:  
+  
 * June is warmer
 * December is cooler
 * there is not a great difference in temps
