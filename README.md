@@ -25,11 +25,13 @@ The analysis yeilded these specific findings:
 
 ### Summary  
   
-Ice cream and Surfing in Hawaii are a 4 seasons business when looking at temperature. In managing operating and labor costs, the client may consider adjusting hours in the winter to be available during the warmest times of the day by opening later and closing earlier.  
+Surfing in Hawaii is a 4 seasons business. When considering things like temperature and precipit when looking at temperature. In managing operating and labor costs, the client may consider adjusting hours in the winter to be available during the warmest times of the day by opening later and closing earlier.  
   
 The client made mention of how previous ventures were "rained out of business," which brings up another climate consideration: precipitation.  
 
-The analyst has run an in-depth, yearly by month analysis for temperature and precipitation. The first graph shows averages for temperature and rainfall for each month so you can take a look at the entirety yearly trends for each month, as Surf's up could be a 4 season shop. Likewise, the analyst prepared an outliers graph, to show where temperature and rain strikes during the year. <br/>
+Analysis below has in-depth, yearly by month analysis for temperature and precipitation. As you are considering a 4 season business model, ice cream business could be affected in the winter months passed December. Average temperatures for January through March are lower than any other points in the data. In addition, March and December are the rainiest months of the year.
+
+The first graph shows averages for temperature and rainfall for each month so you can take a look see the entirety yearly trends for each month. Likewise, the analyst prepared an outliers graph, to show where extreme weather, in particular precipitation, historically has occured. <br/>
   
   
 ![averages](readme_resources/year_average.png)
