@@ -32,6 +32,6 @@ The client made mention of how previous ventures were "rained out of business," 
 The analyst has run an in-depth, yearly by month analysis for temperature and precipitation. The first graph shows averages for temperature and rainfall for each month so you can take a look at the entirety yearly trends for each month, as Surf's up could be a 4 season shop. Likewise, the analyst prepared an outliers graph, to show where temperature and rain strikes during the year. <br/>
   
   
-  
-![june_rain](readme_resources/year_average.png)
-![dec_rain](readme_resources/outliers.png)
+![averages](readme_resources/year_average.png)
+![outliers](readme_resources/outliers.png)  
+
