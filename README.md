@@ -18,9 +18,9 @@ Clent requests information about temperature trends -- specifically, temperature
   
 Analysis yeilded these specific findings:  
   
-* June is a warmer month with a ten-year low temperature of only 64&deg;F and a pleasant average temperature of 75&deg;F  
+* June is a warmer month with the data's low temperature of only 64&deg;F and a pleasant average temperature of 75&deg;F  
 * December is cooler month with a ten-year low temperature of 56&deg;F, the low average at 69&deg;F 
-* Hawaii's average temperature when solely reflected in June and December results, varies +-4&deg;F between these two sample months 
+* Hawaii's average temperature when solely reflected in June and December results, varies 3.5&deg;F between these two sample months 
 
 
 ### Summary  
