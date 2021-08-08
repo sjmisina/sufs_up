@@ -1,7 +1,7 @@
 # Surf's Up Climate Statistical Analysis  
   
   * Analyst: Stan Misina. 
-  * Source Data: SQLite database provided by client: **`hawaii.sqlite`**.  
+  * Source Data: SQLite database provided by client with data from 2010 forward: **`hawaii.sqlite`**.  
       - containing data from 9 stations around Ohau, from Jan 1, 2010    
       - measurements available: temperature observed, and precipitation amounts
   * Source Code: Python v. 3.8.10 built in Jupyter Notebook 6.4.0. 
@@ -25,13 +25,11 @@ The analysis yeilded these specific findings:
 
 ### Summary  
   
-Surfing in Hawaii is a 4 seasons business. When considering things like temperature and precipit when looking at temperature. In managing operating and labor costs, the client may consider adjusting hours in the winter to be available during the warmest times of the day by opening later and closing earlier.  
+Surfing in Hawaii is a 4 seasons business. The client mentioned how previous ventures were "rained out of business," which brings up another climate indicator: precipitation. When considering ice cream sales, temperature and precipitation have more of an affect. In managing operating and labor costs, the client should take into consideration of adjusting hours in the winter due to a chillier average temperature and precipitation.  
   
-The client made mention of how previous ventures were "rained out of business," which brings up another climate consideration: precipitation.  
-
 Analysis below has in-depth, yearly by month analysis for temperature and precipitation. As you are considering a 4 season business model, ice cream business could be affected in the winter months passed December. Average temperatures for January through March are lower than any other points in the data. In addition, March and December are the rainiest months of the year.
 
-The first graph shows averages for temperature and rainfall for each month so you can take a look see the entirety yearly trends for each month. Likewise, the analyst prepared an outliers graph, to show where extreme weather, in particular precipitation, historically has occured. <br/>
+The first graph shows averages for temperature and rainfall. Take note of the monthly trends with combined data dating back to 2010. Likewise, the analyst prepared an outliers graph, to show months where extreme weather historically occurs. Note again the results of December through March. Consideration should be given to the business model, schedule, and open days during this period. <br/>
   
   
 ![averages](readme_resources/year_average.png)
