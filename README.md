@@ -29,9 +29,9 @@ Ice cream and Surfing in Hawaii are a 4 seasons business when looking at tempera
   
 The client made mention of how previous ventures were "rained out of business," which brings up another climate consideration: precipitation.  
 
-The analyst has run a similar analysis for precipitation in June and December. This shows that the first 3 quartiles show that there is not much precipitation (0.12 and 0.15 respectively). However there have been heavy rains recorded in both June and December of 4.43 and 6.24, which means that there is a possibility for rainy Junes and Decembers.<br/>
+The analyst has run an in-depth, yearly by month analysis for temperature and precipitation. The first graph shows averages for temperature and rainfall for each month so you can take a look at the entirety yearly trends for each month, as Surf's up could be a 4 season shop. Likewise, the analyst prepared an outliers graph, to show where temperature and rain strikes during the year. <br/>
   
   
   
-![june_rain](readme_resources/jun_prcp.png)
-![dec_rain](readme_resources/dec_prcp.png)
+![june_rain](readme_resources/averages.png)
+![dec_rain](readme_resources/outliers.png)
