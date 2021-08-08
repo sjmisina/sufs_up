@@ -25,7 +25,7 @@ Analysis yeilded these specific findings:
 
 ### Summary  
   
-Surfing in Hawaii is a four seasons business. The client mentioned how previous ventures were "rained out of business," which brings up another climate indicator: precipitation. When considering ice cream sales, temperature and precipitation have more of an affect. 
+Surfing in Hawaii is a four seasons enterprise. The client mentioned how previous ventures were "rained out of business," which brings up another climate indicator: precipitation. When considering ice cream sales, temperature and precipitation have more of an affect. 
   
 Analysis below multi-year month by month break down for temperature and precipitation. When planning a year-round business model, ice cream business velocity could be affected in the winter months after December. Average temperatures for January through March are lower than any other points in the data. In addition, March and December are the rainiest months of the year on average. In managing operating and labor costs, the client should take this into consideration regarding hours open, and being agile during these potentially difficult months.
 
