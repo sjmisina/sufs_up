@@ -33,5 +33,5 @@ The analyst has run an in-depth, yearly by month analysis for temperature and pr
   
   
   
-![june_rain](readme_resources/averages.png)
+![june_rain](readme_resources/average.png)
 ![dec_rain](readme_resources/outliers.png)
