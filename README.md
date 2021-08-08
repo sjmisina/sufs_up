@@ -16,7 +16,7 @@ Clent requests information about temperature trends -- specifically, temperature
 ![june_results](readme_resources/june_temps.png)
 ![dec_results](readme_resources/dec_temps.png)
   
-The analysis yeilded these specific findings:  
+Analysis yeilded these specific findings:  
   
 * June is a warmer month with a low termperature of only 64&deg;F and a pleasant average temperature of 75&deg;F  
 * December is cooler month with a low temperature of 56&deg;F, and the first quartile of results of 69&deg;F 
