@@ -20,7 +20,7 @@ Analysis yeilded these specific findings:
   
 * June is a warmer month with the data's low temperature of only 64&deg;F and a pleasant average temperature of 75&deg;F  
 * December is a cooler month with a mult-year low temperature of 56&deg;F, the low average at 69&deg;F 
-* Hawaii's average temperature when solely in view of June and December results, varies 3.5&deg;F between these two sample months 
+* Hawaii's average temperature when solely in view of June and December results, varies 3.5&deg;F 
 
 
 ### Summary  
