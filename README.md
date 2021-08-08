@@ -29,7 +29,7 @@ Surfing in Hawaii is a four seasons enterprise. The client mentioned how previou
   
 Analysis below is a multi-year, month by month break down of temperature and precipitation. When planning a year-round business model, ice cream sales velocity could be affected in the winter months after December. Average temperatures for January through March are lower than any other points in the data. In addition, March and December average the most rainfall. In managing operating and labor costs, the client should take this into consideration regarding hours open, and being agile during these potentially difficult months.
 
-The first graph shows averages for temperature and rainfall. Take note of the monthly trends with combined data dating back to 2010. Likewise, the analyst prepared an outliers graph, to show months where extreme precipitation and coolest temperature has occurs since 2010. Note again the results of December through March. Consideration should be given to the business model, schedule, and open days during this period. Solely considering June and December would not reveal this potential issue for a four seasons business.<br/>
+The first graph shows averages for temperature and rainfall. Take note of the monthly trends with a sample size of data dating back to 2010. Likewise, the analyst prepared an outliers graph, to show months where extreme precipitation and coolest temperature has occurs since 2010. Note again the results of December through March. Consideration should be given to the business model, schedule, and open days during this period. Solely considering June and December would not reveal this potential issue for a four seasons business.<br/>
   
   
 ![averages](readme_resources/year_average.png)
