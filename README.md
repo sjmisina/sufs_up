@@ -2,8 +2,7 @@
   
   * Analyst: Stan Misina. 
   * Source Data: SQLite database provided by client with data from 2010 forward: **`hawaii.sqlite`**.  
-      - containing data from 9 stations around Ohau, from Jan 1, 2010    
-      - measurements available: temperature observed, and precipitation amounts
+      - datasets available: temperature, and precipitation amounts from 2010 forward
   * Source Code: Python v. 3.8.10 built in Jupyter Notebook 6.4.0. 
   
 ## Overview Statistical Analysis  
